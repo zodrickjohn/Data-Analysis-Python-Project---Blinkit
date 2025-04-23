@@ -1,4 +1,4 @@
-# 🛒 Data Aanalytics Python Project - Blinkit
+# 🛒 Data Analytics Python Project - Blinkit
 
 This project dives into a dataset of products listed on Blinkit (formerly Grofers) — one of India’s leading instant grocery delivery platforms. Using Python and powerful data visualization tools, I explored key trends, pricing strategies, and product distribution patterns across categories and cities.
 ---
