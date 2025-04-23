@@ -48,18 +48,10 @@ To conduct a comprehensive analysis of Blinkit's business operations and custome
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI** – for dashboard creation and data visualization
-- **Power Query** – for data transformation and cleaning
-- **DAX (Data Analysis Expressions)** – for calculated fields and KPIs
-- **Excel / CSV** – as the primary dataset source
-
----
-
-## 📁 Project Files
-
-- `Blinkit_PowerBI_Dashboard.pbix` – Main Power BI dashboard file
-- `Blinkit_Sales_Data.xlsx` – Dataset used for analysis
-- `README.md` – Project overview
+- **Python** 
+- **Pandas**
+- **Matplotlib**
+- **Seaborn** 
 
 ---
 
