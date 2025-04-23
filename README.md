@@ -57,4 +57,4 @@ To conduct a comprehensive analysis of Blinkit's business operations and custome
 
 ---
 
-[click to view project video / linkdin post](https://www.linkedin.com/posts/zodrick-john-1689a8256_datascience-python-eda-activity-7320819081295581184-KcUG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8mrOABsUmTOAKWlhdQdbjigs27IxTaqzA)
+[Click to view Project Video / Linkdin Post](https://www.linkedin.com/posts/zodrick-john-1689a8256_datascience-python-eda-activity-7320819081295581184-KcUG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8mrOABsUmTOAKWlhdQdbjigs27IxTaqzA)
